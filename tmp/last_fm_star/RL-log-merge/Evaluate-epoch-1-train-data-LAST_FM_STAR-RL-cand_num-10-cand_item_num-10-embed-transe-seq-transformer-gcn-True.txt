@@ -1,0 +1,85 @@
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40475000000000005
+Testing SR@10: 0.725
+Testing SR@15: 0.829
+Testing Avg@T: 7.5095
+Testing hDCG: 0.34402501677591846
+Testing item_cover: 1897
+Testing item_cover_success: 1555
+Testing feature_cover: 0
+Testing feature_cover_success: 0
+Testing time: 3560.205946445465
+================================
+训练周期:1
+===========测试轮次===============
+测试 3999 个用户元组
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40725
+Testing SR@10: 0.728
+Testing SR@15: 0.8385
+Testing Avg@T: 7.448
+Testing hDCG: 0.34641327874453776
+Testing item_cover: 1909
+Testing item_cover_success: 1598
+Testing feature_cover: 150
+Testing feature_cover_success: 77
+Testing time: 3028.192207336426
+================================
+训练周期:1
+===========测试轮次===============
+测试 3999 个用户元组
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.396
+Testing SR@10: 0.7254999999999999
+Testing SR@15: 0.83475
+Testing Avg@T: 7.53675
+Testing hDCG: 0.34349601344726527
+Testing item_cover: 1915
+Testing item_cover_success: 1630
+Testing feature_cover: 178
+Testing feature_cover_success: 99
+Testing time: 5990.4829161167145
+================================
+训练周期:1
+===========测试轮次===============
+测试 3999 个用户元组
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.4241
+Testing SR@10: 0.7522
+Testing SR@15: 0.843
+Testing Avg@T: 7.286199999999999
+Testing hDCG: 0.3456990787973867
+Testing item_cover: 3550
+Testing item_cover_success: 3107
+Testing feature_cover: 262
+Testing feature_cover_success: 154
+Testing time: 7978.073312282562
+================================
+训练周期:1
+===========测试轮次===============
+测试 11890 个用户元组
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.42
+Testing SR@10: 0.75
+Testing SR@15: 0.84575
+Testing Avg@T: 7.3142499999999995
+Testing hDCG: 0.34444661441531615
+Testing item_cover: 5912
+Testing item_cover_success: 1712
+Testing feature_cover: 184
+Testing feature_cover_success: 94
+Testing time: 2623.6206057071686
+================================
+训练周期:1
+===========测试轮次===============
+测试 3999 个用户元组
+================================

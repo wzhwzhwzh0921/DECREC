@@ -1,0 +1,34 @@
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.395
+Testing SR@10: 0.70475
+Testing SR@15: 0.81925
+Testing Avg@T: 7.6685
+Testing hDCG: 0.33808226041157663
+Testing item_cover: 1876
+Testing item_cover_success: 1544
+Testing feature_cover: 107
+Testing feature_cover_success: 59
+Testing time: 5852.608242750168
+================================
+训练周期:15
+===========测试轮次===============
+测试 3999 个用户元组
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38625
+Testing SR@10: 0.7215
+Testing SR@15: 0.8187500000000001
+Testing Avg@T: 7.67425
+Testing hDCG: 0.3331400691144157
+Testing item_cover: 1923
+Testing item_cover_success: 1587
+Testing feature_cover: 145
+Testing feature_cover_success: 83
+Testing time: 3268.5796704292297
+================================
+训练周期:15
+===========测试轮次===============
+测试 3999 个用户元组
+================================

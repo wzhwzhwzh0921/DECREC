@@ -1,0 +1,1183 @@
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40475000000000005
+Testing SR@10: 0.725
+Testing SR@15: 0.829
+Testing Avg@T: 7.5095
+Testing hDCG: 0.34402501677591846
+Testing item_cover: 1897
+Testing item_cover_success: 1555
+Testing feature_cover: 0
+Testing feature_cover_success: 0
+Testing time: 3560.2056736946106
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.4
+Testing SR@10: 0.7277499999999999
+Testing SR@15: 0.837
+Testing Avg@T: 7.519500000000001
+Testing hDCG: 0.3441521969044008
+Testing item_cover: 1876
+Testing item_cover_success: 1577
+Testing feature_cover: 0
+Testing feature_cover_success: 0
+Testing time: 3606.2057135105133
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39275000000000004
+Testing SR@10: 0.72275
+Testing SR@15: 0.8295
+Testing Avg@T: 7.5825
+Testing hDCG: 0.3409480902052837
+Testing item_cover: 1862
+Testing item_cover_success: 1541
+Testing feature_cover: 0
+Testing feature_cover_success: 0
+Testing time: 3445.537685394287
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39175000000000004
+Testing SR@10: 0.7335
+Testing SR@15: 0.8295
+Testing Avg@T: 7.516
+Testing hDCG: 0.3418731272482129
+Testing item_cover: 1906
+Testing item_cover_success: 1578
+Testing feature_cover: 0
+Testing feature_cover_success: 0
+Testing time: 3130.101453065872
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3975
+Testing SR@10: 0.72325
+Testing SR@15: 0.83775
+Testing Avg@T: 7.5287500000000005
+Testing hDCG: 0.34317078493519765
+Testing item_cover: 1878
+Testing item_cover_success: 1562
+Testing feature_cover: 0
+Testing feature_cover_success: 0
+Testing time: 3192.5584127902985
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40725
+Testing SR@10: 0.728
+Testing SR@15: 0.8385
+Testing Avg@T: 7.448
+Testing hDCG: 0.34641327874453776
+Testing item_cover: 1909
+Testing item_cover_success: 1598
+Testing feature_cover: 150
+Testing feature_cover_success: 77
+Testing time: 3028.1920869350433
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3975
+Testing SR@10: 0.7315
+Testing SR@15: 0.83775
+Testing Avg@T: 7.500500000000001
+Testing hDCG: 0.3437359225680628
+Testing item_cover: 1856
+Testing item_cover_success: 1550
+Testing feature_cover: 140
+Testing feature_cover_success: 69
+Testing time: 3156.6853625774384
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39025
+Testing SR@10: 0.726
+Testing SR@15: 0.82925
+Testing Avg@T: 7.5385
+Testing hDCG: 0.3418783585074777
+Testing item_cover: 1905
+Testing item_cover_success: 1588
+Testing feature_cover: 126
+Testing feature_cover_success: 59
+Testing time: 3161.500378370285
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38675000000000004
+Testing SR@10: 0.7257499999999999
+Testing SR@15: 0.833
+Testing Avg@T: 7.57825
+Testing hDCG: 0.34065834139657414
+Testing item_cover: 1875
+Testing item_cover_success: 1564
+Testing feature_cover: 118
+Testing feature_cover_success: 67
+Testing time: 3257.142714738846
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3985
+Testing SR@10: 0.72325
+Testing SR@15: 0.827
+Testing Avg@T: 7.57075
+Testing hDCG: 0.3401405655595926
+Testing item_cover: 1897
+Testing item_cover_success: 1570
+Testing feature_cover: 124
+Testing feature_cover_success: 67
+Testing time: 3306.5281405448914
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.387
+Testing SR@10: 0.7145
+Testing SR@15: 0.82575
+Testing Avg@T: 7.625249999999999
+Testing hDCG: 0.33960768513484874
+Testing item_cover: 1865
+Testing item_cover_success: 1538
+Testing feature_cover: 122
+Testing feature_cover_success: 64
+Testing time: 3338.3736896514893
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38875000000000004
+Testing SR@10: 0.72825
+Testing SR@15: 0.8274999999999999
+Testing Avg@T: 7.59925
+Testing hDCG: 0.33909994286610984
+Testing item_cover: 1871
+Testing item_cover_success: 1531
+Testing feature_cover: 118
+Testing feature_cover_success: 57
+Testing time: 3375.134869813919
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39275000000000004
+Testing SR@10: 0.7165
+Testing SR@15: 0.82375
+Testing Avg@T: 7.649000000000001
+Testing hDCG: 0.3386081818628802
+Testing item_cover: 1867
+Testing item_cover_success: 1521
+Testing feature_cover: 122
+Testing feature_cover_success: 64
+Testing time: 3475.6667256355286
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39
+Testing SR@10: 0.7112499999999999
+Testing SR@15: 0.81925
+Testing Avg@T: 7.65325
+Testing hDCG: 0.3384411110976813
+Testing item_cover: 1884
+Testing item_cover_success: 1529
+Testing feature_cover: 116
+Testing feature_cover_success: 58
+Testing time: 3524.9758944511414
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40049999999999997
+Testing SR@10: 0.7115
+Testing SR@15: 0.82025
+Testing Avg@T: 7.66875
+Testing hDCG: 0.33766533353312034
+Testing item_cover: 1892
+Testing item_cover_success: 1540
+Testing feature_cover: 119
+Testing feature_cover_success: 65
+Testing time: 3586.033017396927
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39875000000000005
+Testing SR@10: 0.7025
+Testing SR@15: 0.82525
+Testing Avg@T: 7.6434999999999995
+Testing hDCG: 0.3411889840803918
+Testing item_cover: 1850
+Testing item_cover_success: 1516
+Testing feature_cover: 113
+Testing feature_cover_success: 58
+Testing time: 3677.321741580963
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40625
+Testing SR@10: 0.7084999999999999
+Testing SR@15: 0.8222499999999999
+Testing Avg@T: 7.61825
+Testing hDCG: 0.3388397950326742
+Testing item_cover: 1886
+Testing item_cover_success: 1540
+Testing feature_cover: 109
+Testing feature_cover_success: 54
+Testing time: 3679.450578212738
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40625
+Testing SR@10: 0.72025
+Testing SR@15: 0.81675
+Testing Avg@T: 7.62725
+Testing hDCG: 0.3365176373950013
+Testing item_cover: 1836
+Testing item_cover_success: 1501
+Testing feature_cover: 112
+Testing feature_cover_success: 56
+Testing time: 3802.7873301506042
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3985
+Testing SR@10: 0.7072499999999999
+Testing SR@15: 0.81175
+Testing Avg@T: 7.68825
+Testing hDCG: 0.33519961030276924
+Testing item_cover: 1887
+Testing item_cover_success: 1505
+Testing feature_cover: 109
+Testing feature_cover_success: 57
+Testing time: 3801.4976654052734
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.395
+Testing SR@10: 0.70475
+Testing SR@15: 0.81925
+Testing Avg@T: 7.6685
+Testing hDCG: 0.33808226041157663
+Testing item_cover: 1876
+Testing item_cover_success: 1544
+Testing feature_cover: 107
+Testing feature_cover_success: 59
+Testing time: 5852.608130693436
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.396
+Testing SR@10: 0.7254999999999999
+Testing SR@15: 0.83475
+Testing Avg@T: 7.53675
+Testing hDCG: 0.34349601344726527
+Testing item_cover: 1915
+Testing item_cover_success: 1630
+Testing feature_cover: 178
+Testing feature_cover_success: 99
+Testing time: 5990.482784986496
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3995
+Testing SR@10: 0.7315
+Testing SR@15: 0.8320000000000001
+Testing Avg@T: 7.5017499999999995
+Testing hDCG: 0.3422952562462194
+Testing item_cover: 1903
+Testing item_cover_success: 1604
+Testing feature_cover: 170
+Testing feature_cover_success: 86
+Testing time: 6084.044595241547
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40275000000000005
+Testing SR@10: 0.735
+Testing SR@15: 0.8260000000000001
+Testing Avg@T: 7.486750000000001
+Testing hDCG: 0.3408049773374717
+Testing item_cover: 1901
+Testing item_cover_success: 1575
+Testing feature_cover: 162
+Testing feature_cover_success: 83
+Testing time: 6140.9095141887665
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3905
+Testing SR@10: 0.71675
+Testing SR@15: 0.82275
+Testing Avg@T: 7.6427499999999995
+Testing hDCG: 0.33508410908037667
+Testing item_cover: 1894
+Testing item_cover_success: 1589
+Testing feature_cover: 158
+Testing feature_cover_success: 85
+Testing time: 6303.660666465759
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.388
+Testing SR@10: 0.7184999999999999
+Testing SR@15: 0.823
+Testing Avg@T: 7.63825
+Testing hDCG: 0.3357869685525962
+Testing item_cover: 1902
+Testing item_cover_success: 1591
+Testing feature_cover: 171
+Testing feature_cover_success: 83
+Testing time: 6238.271490573883
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.391
+Testing SR@10: 0.7112499999999999
+Testing SR@15: 0.8165
+Testing Avg@T: 7.720750000000001
+Testing hDCG: 0.33269972576090695
+Testing item_cover: 1901
+Testing item_cover_success: 1581
+Testing feature_cover: 159
+Testing feature_cover_success: 78
+Testing time: 6438.669674873352
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39475000000000005
+Testing SR@10: 0.72425
+Testing SR@15: 0.8222499999999999
+Testing Avg@T: 7.59375
+Testing hDCG: 0.33696811114516995
+Testing item_cover: 1885
+Testing item_cover_success: 1582
+Testing feature_cover: 156
+Testing feature_cover_success: 84
+Testing time: 3113.0365283489227
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.392
+Testing SR@10: 0.708
+Testing SR@15: 0.8127500000000001
+Testing Avg@T: 7.77075
+Testing hDCG: 0.329136342650939
+Testing item_cover: 1924
+Testing item_cover_success: 1587
+Testing feature_cover: 148
+Testing feature_cover_success: 78
+Testing time: 3263.394459962845
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.389
+Testing SR@10: 0.71575
+Testing SR@15: 0.8180000000000001
+Testing Avg@T: 7.67625
+Testing hDCG: 0.3344698586194278
+Testing item_cover: 1935
+Testing item_cover_success: 1596
+Testing feature_cover: 151
+Testing feature_cover_success: 85
+Testing time: 3230.327383041382
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3905
+Testing SR@10: 0.711
+Testing SR@15: 0.8127500000000001
+Testing Avg@T: 7.68275
+Testing hDCG: 0.33527122306379076
+Testing item_cover: 1912
+Testing item_cover_success: 1589
+Testing feature_cover: 147
+Testing feature_cover_success: 82
+Testing time: 3169.679633617401
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.401
+Testing SR@10: 0.72325
+Testing SR@15: 0.828
+Testing Avg@T: 7.58475
+Testing hDCG: 0.33812481725250326
+Testing item_cover: 1941
+Testing item_cover_success: 1616
+Testing feature_cover: 146
+Testing feature_cover_success: 77
+Testing time: 3126.787151813507
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39025
+Testing SR@10: 0.71675
+Testing SR@15: 0.82075
+Testing Avg@T: 7.6697500000000005
+Testing hDCG: 0.3348146143328258
+Testing item_cover: 1893
+Testing item_cover_success: 1582
+Testing feature_cover: 153
+Testing feature_cover_success: 75
+Testing time: 3171.0694286823273
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39875000000000005
+Testing SR@10: 0.729
+Testing SR@15: 0.8285
+Testing Avg@T: 7.5215
+Testing hDCG: 0.3414252957404672
+Testing item_cover: 1913
+Testing item_cover_success: 1579
+Testing feature_cover: 141
+Testing feature_cover_success: 81
+Testing time: 3175.8367540836334
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39125
+Testing SR@10: 0.724
+Testing SR@15: 0.8175
+Testing Avg@T: 7.6572499999999994
+Testing hDCG: 0.3322769689907366
+Testing item_cover: 1906
+Testing item_cover_success: 1591
+Testing feature_cover: 151
+Testing feature_cover_success: 83
+Testing time: 3178.9840269088745
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38625
+Testing SR@10: 0.7215
+Testing SR@15: 0.8187500000000001
+Testing Avg@T: 7.67425
+Testing hDCG: 0.3331400691144157
+Testing item_cover: 1923
+Testing item_cover_success: 1587
+Testing feature_cover: 145
+Testing feature_cover_success: 83
+Testing time: 3268.5795385837555
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38725
+Testing SR@10: 0.7175
+Testing SR@15: 0.8220000000000001
+Testing Avg@T: 7.668
+Testing hDCG: 0.33304388725770573
+Testing item_cover: 1911
+Testing item_cover_success: 1582
+Testing feature_cover: 153
+Testing feature_cover_success: 80
+Testing time: 3238.005981206894
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39825
+Testing SR@10: 0.7204999999999999
+Testing SR@15: 0.8262499999999999
+Testing Avg@T: 7.5592500000000005
+Testing hDCG: 0.34164871690109216
+Testing item_cover: 1890
+Testing item_cover_success: 1598
+Testing feature_cover: 135
+Testing feature_cover_success: 82
+Testing time: 4411.623460292816
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3885
+Testing SR@10: 0.7265
+Testing SR@15: 0.8234999999999999
+Testing Avg@T: 7.592499999999999
+Testing hDCG: 0.3374861123881523
+Testing item_cover: 1929
+Testing item_cover_success: 1595
+Testing feature_cover: 139
+Testing feature_cover_success: 82
+Testing time: 6300.495432376862
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3925
+Testing SR@10: 0.72275
+Testing SR@15: 0.8234999999999999
+Testing Avg@T: 7.60025
+Testing hDCG: 0.3384532568882943
+Testing item_cover: 1919
+Testing item_cover_success: 1590
+Testing feature_cover: 134
+Testing feature_cover_success: 77
+Testing time: 6403.0582666397095
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.383
+Testing SR@10: 0.7075
+Testing SR@15: 0.81425
+Testing Avg@T: 7.7405
+Testing hDCG: 0.3333776779142801
+Testing item_cover: 1943
+Testing item_cover_success: 1612
+Testing feature_cover: 145
+Testing feature_cover_success: 86
+Testing time: 6493.997145652771
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38849999999999996
+Testing SR@10: 0.726
+Testing SR@15: 0.8262499999999999
+Testing Avg@T: 7.6045
+Testing hDCG: 0.33760346111878625
+Testing item_cover: 1921
+Testing item_cover_success: 1592
+Testing feature_cover: 140
+Testing feature_cover_success: 81
+Testing time: 6362.656076192856
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3815
+Testing SR@10: 0.7175
+Testing SR@15: 0.8162499999999999
+Testing Avg@T: 7.7052499999999995
+Testing hDCG: 0.3314968637700616
+Testing item_cover: 1925
+Testing item_cover_success: 1598
+Testing feature_cover: 132
+Testing feature_cover_success: 73
+Testing time: 6525.437867641449
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38875000000000004
+Testing SR@10: 0.715
+Testing SR@15: 0.8147500000000001
+Testing Avg@T: 7.703749999999999
+Testing hDCG: 0.3331523750400701
+Testing item_cover: 1892
+Testing item_cover_success: 1559
+Testing feature_cover: 140
+Testing feature_cover_success: 80
+Testing time: 6232.068746805191
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3885
+Testing SR@10: 0.7195
+Testing SR@15: 0.8285
+Testing Avg@T: 7.61125
+Testing hDCG: 0.3372172185018577
+Testing item_cover: 1873
+Testing item_cover_success: 1578
+Testing feature_cover: 139
+Testing feature_cover_success: 77
+Testing time: 3354.770455121994
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.392
+Testing SR@10: 0.7265
+Testing SR@15: 0.83375
+Testing Avg@T: 7.562749999999999
+Testing hDCG: 0.3428078531047942
+Testing item_cover: 1907
+Testing item_cover_success: 1594
+Testing feature_cover: 134
+Testing feature_cover_success: 82
+Testing time: 3321.407769680023
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3945
+Testing SR@10: 0.72075
+Testing SR@15: 0.8260000000000001
+Testing Avg@T: 7.6315
+Testing hDCG: 0.33605427006386723
+Testing item_cover: 1926
+Testing item_cover_success: 1597
+Testing feature_cover: 133
+Testing feature_cover_success: 79
+Testing time: 3325.33944106102
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.393
+Testing SR@10: 0.7152499999999999
+Testing SR@15: 0.8137500000000001
+Testing Avg@T: 7.648
+Testing hDCG: 0.33329736414902916
+Testing item_cover: 1915
+Testing item_cover_success: 1585
+Testing feature_cover: 144
+Testing feature_cover_success: 80
+Testing time: 3387.6363003253937
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3885
+Testing SR@10: 0.7164999999999999
+Testing SR@15: 0.8235
+Testing Avg@T: 7.6579999999999995
+Testing hDCG: 0.33753253415176454
+Testing item_cover: 1930
+Testing item_cover_success: 1601
+Testing feature_cover: 132
+Testing feature_cover_success: 75
+Testing time: 3383.077532052994
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38875000000000004
+Testing SR@10: 0.7135
+Testing SR@15: 0.82375
+Testing Avg@T: 7.656
+Testing hDCG: 0.33764552326093356
+Testing item_cover: 1893
+Testing item_cover_success: 1567
+Testing feature_cover: 132
+Testing feature_cover_success: 69
+Testing time: 3379.6881804466248
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38725
+Testing SR@10: 0.7177499999999999
+Testing SR@15: 0.82125
+Testing Avg@T: 7.6415
+Testing hDCG: 0.33718307812497494
+Testing item_cover: 1928
+Testing item_cover_success: 1585
+Testing feature_cover: 132
+Testing feature_cover_success: 78
+Testing time: 3379.3010263442993
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3975
+Testing SR@10: 0.7215
+Testing SR@15: 0.8262499999999999
+Testing Avg@T: 7.5809999999999995
+Testing hDCG: 0.33945803919230405
+Testing item_cover: 1911
+Testing item_cover_success: 1602
+Testing feature_cover: 130
+Testing feature_cover_success: 72
+Testing time: 3415.418794155121
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.377
+Testing SR@10: 0.7092499999999999
+Testing SR@15: 0.82175
+Testing Avg@T: 7.729749999999999
+Testing hDCG: 0.33288634815955753
+Testing item_cover: 1917
+Testing item_cover_success: 1592
+Testing feature_cover: 143
+Testing feature_cover_success: 77
+Testing time: 3532.06525349617
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38375000000000004
+Testing SR@10: 0.7132499999999999
+Testing SR@15: 0.815
+Testing Avg@T: 7.709
+Testing hDCG: 0.3330937669322815
+Testing item_cover: 1901
+Testing item_cover_success: 1564
+Testing feature_cover: 128
+Testing feature_cover_success: 74
+Testing time: 3491.2330243587494
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38175000000000003
+Testing SR@10: 0.7092499999999999
+Testing SR@15: 0.821
+Testing Avg@T: 7.731
+Testing hDCG: 0.3326511279545997
+Testing item_cover: 1923
+Testing item_cover_success: 1590
+Testing feature_cover: 136
+Testing feature_cover_success: 81
+Testing time: 3515.380148410797
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.401
+Testing SR@10: 0.71225
+Testing SR@15: 0.8222499999999999
+Testing Avg@T: 7.578
+Testing hDCG: 0.3416728176170839
+Testing item_cover: 1903
+Testing item_cover_success: 1600
+Testing feature_cover: 134
+Testing feature_cover_success: 75
+Testing time: 3453.4776558876038
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.40425
+Testing SR@10: 0.70825
+Testing SR@15: 0.81775
+Testing Avg@T: 7.66125
+Testing hDCG: 0.3360096984581078
+Testing item_cover: 1920
+Testing item_cover_success: 1578
+Testing feature_cover: 140
+Testing feature_cover_success: 73
+Testing time: 3521.2586121559143
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38949999999999996
+Testing SR@10: 0.715
+Testing SR@15: 0.825
+Testing Avg@T: 7.6485
+Testing hDCG: 0.33631645298272383
+Testing item_cover: 1912
+Testing item_cover_success: 1587
+Testing feature_cover: 126
+Testing feature_cover_success: 75
+Testing time: 3542.8958568573
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.389
+Testing SR@10: 0.7092499999999999
+Testing SR@15: 0.81175
+Testing Avg@T: 7.736000000000001
+Testing hDCG: 0.3321372342195825
+Testing item_cover: 1941
+Testing item_cover_success: 1627
+Testing feature_cover: 136
+Testing feature_cover_success: 76
+Testing time: 3592.850645542145
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38975000000000004
+Testing SR@10: 0.7085
+Testing SR@15: 0.81275
+Testing Avg@T: 7.707000000000001
+Testing hDCG: 0.33454879924531855
+Testing item_cover: 1926
+Testing item_cover_success: 1590
+Testing feature_cover: 133
+Testing feature_cover_success: 75
+Testing time: 3740.823349714279
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3945
+Testing SR@10: 0.7094999999999999
+Testing SR@15: 0.82025
+Testing Avg@T: 7.6732499999999995
+Testing hDCG: 0.3366605914879398
+Testing item_cover: 1931
+Testing item_cover_success: 1597
+Testing feature_cover: 136
+Testing feature_cover_success: 84
+Testing time: 3583.1638565063477
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.393
+Testing SR@10: 0.712
+Testing SR@15: 0.819
+Testing Avg@T: 7.6217500000000005
+Testing hDCG: 0.34010342038614005
+Testing item_cover: 1882
+Testing item_cover_success: 1545
+Testing feature_cover: 125
+Testing feature_cover_success: 74
+Testing time: 3584.5824937820435
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39575000000000005
+Testing SR@10: 0.721
+Testing SR@15: 0.8302499999999999
+Testing Avg@T: 7.59725
+Testing hDCG: 0.33968482776424036
+Testing item_cover: 1921
+Testing item_cover_success: 1608
+Testing feature_cover: 144
+Testing feature_cover_success: 78
+Testing time: 3482.1992511749268
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3965
+Testing SR@10: 0.715
+Testing SR@15: 0.81975
+Testing Avg@T: 7.61525
+Testing hDCG: 0.338921928240991
+Testing item_cover: 1943
+Testing item_cover_success: 1631
+Testing feature_cover: 143
+Testing feature_cover_success: 80
+Testing time: 3606.604747056961
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3895
+Testing SR@10: 0.7134999999999999
+Testing SR@15: 0.8150000000000001
+Testing Avg@T: 7.6964999999999995
+Testing hDCG: 0.33118970307570217
+Testing item_cover: 1937
+Testing item_cover_success: 1617
+Testing feature_cover: 135
+Testing feature_cover_success: 76
+Testing time: 3478.6249961853027
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.397
+Testing SR@10: 0.7175
+Testing SR@15: 0.82325
+Testing Avg@T: 7.626250000000001
+Testing hDCG: 0.3370795696924538
+Testing item_cover: 1934
+Testing item_cover_success: 1614
+Testing feature_cover: 140
+Testing feature_cover_success: 82
+Testing time: 3506.290628671646
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3855
+Testing SR@10: 0.718
+Testing SR@15: 0.8202499999999999
+Testing Avg@T: 7.645
+Testing hDCG: 0.33631983241124097
+Testing item_cover: 1933
+Testing item_cover_success: 1611
+Testing feature_cover: 136
+Testing feature_cover_success: 82
+Testing time: 3526.4156153202057
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.392
+Testing SR@10: 0.7112499999999999
+Testing SR@15: 0.8075
+Testing Avg@T: 7.6605
+Testing hDCG: 0.3349271782598395
+Testing item_cover: 1904
+Testing item_cover_success: 1559
+Testing feature_cover: 138
+Testing feature_cover_success: 78
+Testing time: 3502.457937479019
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39325
+Testing SR@10: 0.7242500000000001
+Testing SR@15: 0.8215
+Testing Avg@T: 7.564500000000001
+Testing hDCG: 0.3385542592418857
+Testing item_cover: 1917
+Testing item_cover_success: 1613
+Testing feature_cover: 144
+Testing feature_cover_success: 76
+Testing time: 3443.182205915451
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39825
+Testing SR@10: 0.7144999999999999
+Testing SR@15: 0.81575
+Testing Avg@T: 7.6362499999999995
+Testing hDCG: 0.3342186484209836
+Testing item_cover: 1923
+Testing item_cover_success: 1593
+Testing feature_cover: 140
+Testing feature_cover_success: 74
+Testing time: 3619.485764026642
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.387
+Testing SR@10: 0.718
+Testing SR@15: 0.8225
+Testing Avg@T: 7.6325
+Testing hDCG: 0.33752912506028504
+Testing item_cover: 1926
+Testing item_cover_success: 1622
+Testing feature_cover: 132
+Testing feature_cover_success: 79
+Testing time: 3593.8391468524933
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39375000000000004
+Testing SR@10: 0.71975
+Testing SR@15: 0.8235
+Testing Avg@T: 7.59375
+Testing hDCG: 0.3370531053767515
+Testing item_cover: 1949
+Testing item_cover_success: 1646
+Testing feature_cover: 136
+Testing feature_cover_success: 83
+Testing time: 3428.6446764469147
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39
+Testing SR@10: 0.7237499999999999
+Testing SR@15: 0.8205
+Testing Avg@T: 7.595750000000001
+Testing hDCG: 0.33701072308866653
+Testing item_cover: 1921
+Testing item_cover_success: 1605
+Testing feature_cover: 153
+Testing feature_cover_success: 92
+Testing time: 3499.310782432556
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38825
+Testing SR@10: 0.7242500000000001
+Testing SR@15: 0.8302499999999999
+Testing Avg@T: 7.61975
+Testing hDCG: 0.33453865073465605
+Testing item_cover: 1941
+Testing item_cover_success: 1647
+Testing feature_cover: 129
+Testing feature_cover_success: 76
+Testing time: 3481.3166131973267
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.38725
+Testing SR@10: 0.712
+Testing SR@15: 0.8200000000000001
+Testing Avg@T: 7.69525
+Testing hDCG: 0.3353222265934485
+Testing item_cover: 1948
+Testing item_cover_success: 1641
+Testing feature_cover: 144
+Testing feature_cover_success: 80
+Testing time: 3589.024980545044
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39125
+Testing SR@10: 0.716
+Testing SR@15: 0.82225
+Testing Avg@T: 7.634499999999999
+Testing hDCG: 0.3377750979872224
+Testing item_cover: 1922
+Testing item_cover_success: 1606
+Testing feature_cover: 145
+Testing feature_cover_success: 89
+Testing time: 3582.607978820801
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.393
+Testing SR@10: 0.725
+Testing SR@15: 0.823
+Testing Avg@T: 7.58975
+Testing hDCG: 0.3388627893484879
+Testing item_cover: 1933
+Testing item_cover_success: 1619
+Testing feature_cover: 139
+Testing feature_cover_success: 79
+Testing time: 3447.0812141895294
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.385
+Testing SR@10: 0.71925
+Testing SR@15: 0.8182499999999999
+Testing Avg@T: 7.66125
+Testing hDCG: 0.3335645804011911
+Testing item_cover: 1939
+Testing item_cover_success: 1600
+Testing feature_cover: 124
+Testing feature_cover_success: 80
+Testing time: 3538.2789618968964
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.3855
+Testing SR@10: 0.71275
+Testing SR@15: 0.8185
+Testing Avg@T: 7.675000000000001
+Testing hDCG: 0.3366981128362837
+Testing item_cover: 1931
+Testing item_cover_success: 1609
+Testing feature_cover: 142
+Testing feature_cover_success: 88
+Testing time: 3541.841922044754
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.4241
+Testing SR@10: 0.7522
+Testing SR@15: 0.843
+Testing Avg@T: 7.286199999999999
+Testing hDCG: 0.3456990787973867
+Testing item_cover: 3550
+Testing item_cover_success: 3107
+Testing feature_cover: 262
+Testing feature_cover_success: 154
+Testing time: 7978.073201656342
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.40990000000000004
+Testing SR@10: 0.7534
+Testing SR@15: 0.8379
+Testing Avg@T: 7.3441
+Testing hDCG: 0.3424594235223507
+Testing item_cover: 3479
+Testing item_cover_success: 3037
+Testing feature_cover: 257
+Testing feature_cover_success: 133
+Testing time: 7959.564738273621
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.40120000000000006
+Testing SR@10: 0.7548999999999999
+Testing SR@15: 0.8382999999999999
+Testing Avg@T: 7.404599999999999
+Testing hDCG: 0.33910433897418785
+Testing item_cover: 3474
+Testing item_cover_success: 3023
+Testing feature_cover: 256
+Testing feature_cover_success: 131
+Testing time: 8176.295127630234
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.3966
+Testing SR@10: 0.7542
+Testing SR@15: 0.8449
+Testing Avg@T: 7.3742
+Testing hDCG: 0.3413868909520285
+Testing item_cover: 3498
+Testing item_cover_success: 3067
+Testing feature_cover: 254
+Testing feature_cover_success: 138
+Testing time: 8025.989031791687
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.3967
+Testing SR@10: 0.757
+Testing SR@15: 0.8439
+Testing Avg@T: 7.3988
+Testing hDCG: 0.3405187209947809
+Testing item_cover: 3520
+Testing item_cover_success: 3074
+Testing feature_cover: 236
+Testing feature_cover_success: 123
+Testing time: 8007.9434514045715
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.4048
+Testing SR@10: 0.7644
+Testing SR@15: 0.8447999999999999
+Testing Avg@T: 7.292700000000001
+Testing hDCG: 0.34573122998309697
+Testing item_cover: 3525
+Testing item_cover_success: 3075
+Testing feature_cover: 245
+Testing feature_cover_success: 130
+Testing time: 7835.975785493851
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.395
+Testing SR@10: 0.7518
+Testing SR@15: 0.8394
+Testing Avg@T: 7.4072000000000005
+Testing hDCG: 0.3397717279881137
+Testing item_cover: 3522
+Testing item_cover_success: 3095
+Testing feature_cover: 243
+Testing feature_cover_success: 133
+Testing time: 8045.946521520615
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.39810000000000006
+Testing SR@10: 0.7585
+Testing SR@15: 0.8415999999999999
+Testing Avg@T: 7.3732
+Testing hDCG: 0.3402861769605802
+Testing item_cover: 3460
+Testing item_cover_success: 3032
+Testing feature_cover: 243
+Testing feature_cover_success: 126
+Testing time: 7893.078050136566
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.4024
+Testing SR@10: 0.7686999999999999
+Testing SR@15: 0.8447000000000001
+Testing Avg@T: 7.3027
+Testing hDCG: 0.3425460502541349
+Testing item_cover: 3549
+Testing item_cover_success: 3129
+Testing feature_cover: 249
+Testing feature_cover_success: 138
+Testing time: 7812.6077835559845
+================================
+===========Test===============
+Testing 11890 user tuples
+Testing SR@5: 0.40040000000000003
+Testing SR@10: 0.7663
+Testing SR@15: 0.8481
+Testing Avg@T: 7.339
+Testing hDCG: 0.3410904263254242
+Testing item_cover: 3518
+Testing item_cover_success: 3114
+Testing feature_cover: 247
+Testing feature_cover_success: 137
+Testing time: 7980.310204982758
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.42
+Testing SR@10: 0.75
+Testing SR@15: 0.84575
+Testing Avg@T: 7.3142499999999995
+Testing hDCG: 0.34444661441531615
+Testing item_cover: 5912
+Testing item_cover_success: 1712
+Testing feature_cover: 184
+Testing feature_cover_success: 94
+Testing time: 2623.620484828949
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.41025
+Testing SR@10: 0.7430000000000001
+Testing SR@15: 0.8302499999999999
+Testing Avg@T: 7.42075
+Testing hDCG: 0.33723680181271765
+Testing item_cover: 5899
+Testing item_cover_success: 1646
+Testing feature_cover: 185
+Testing feature_cover_success: 103
+Testing time: 2693.7488684654236
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.39975000000000005
+Testing SR@10: 0.7525
+Testing SR@15: 0.8402499999999999
+Testing Avg@T: 7.41225
+Testing hDCG: 0.34148513664287894
+Testing item_cover: 5897
+Testing item_cover_success: 1660
+Testing feature_cover: 177
+Testing feature_cover_success: 97
+Testing time: 2771.2288529872894
+================================

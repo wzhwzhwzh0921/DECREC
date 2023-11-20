@@ -1,0 +1,17 @@
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.392
+Testing SR@10: 0.7265
+Testing SR@15: 0.83375
+Testing Avg@T: 7.562749999999999
+Testing hDCG: 0.3428078531047942
+Testing item_cover: 1907
+Testing item_cover_success: 1594
+Testing feature_cover: 134
+Testing feature_cover_success: 82
+Testing time: 3321.4078946113586
+================================
+训练周期:25
+===========测试轮次===============
+测试 3999 个用户元组
+================================
